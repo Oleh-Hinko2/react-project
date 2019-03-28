@@ -6,13 +6,16 @@
     padding: 10px;
     .item {
       padding: 5px;
+      a {
+        color: white;
+      }
     };
   }
   .messages {
     padding: 10px;
     .message {
       padding: 5px;
-
+      color: white;
     }
   }
 }
